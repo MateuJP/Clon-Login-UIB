@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+sso.uib.es	TRUE	/cas	FALSE	1999999999	DISSESSION	8ed5b26c-3604-4b5d-9794-d705510efcf6
+sso.uib.es	TRUE	/	FALSE	1999999999	e28aee83c5cae1db7dfb1af3b43def81	066d02032b288e872f1e356d3b34cc02
+sso.uib.es	TRUE	/	FALSE	1999999999	SameSite	None
+sso.uib.es	TRUE	/	FALSE	1999999999	org.springframework.web.servlet.i18n.CookieLocaleResolver.LOCALE	en
+

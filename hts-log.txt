@@ -1,0 +1,17 @@
+HTTrack3.49-4+libhtsjava.so.2 launched on Tue, 03 Oct 2023 23:56:36 at https://sso.uib.es/cas/login?service=https%3A%2F%2Fserveis.uib.es%2Fportal-info%2Fportal%2Fentry%2F /cloneUib
+(httrack https://sso.uib.es/cas/login?service=https%3A%2F%2Fserveis.uib.es%2Fportal-info%2Fportal%2Fentry%2F -o /cloneUib )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:56:38	Warning: 	Moved Temporarily for https://sso.uib.es/robots.txt
+23:56:38	Warning: 	File has moved from https://sso.uib.es/robots.txt to https://sso.uib.es/cas/login
+23:58:20	Error: 	"Not Found" (404) at link https://sso.uib.es/cas/css/uib-theme/fonts/academicons.eot (from https://sso.uib.es/cas/css/uib-theme/estils.css)
+23:58:20	Error: 	"Not Found" (404) at link https://sso.uib.es/cas/css/uib-theme/fonts/academicons.ttf (from https://sso.uib.es/cas/css/uib-theme/estils.css)
+23:58:20	Error: 	"Not Found" (404) at link https://sso.uib.es/cas/css/uib-theme/fonts/academicons.woff (from https://sso.uib.es/cas/css/uib-theme/estils.css)
+23:58:20	Error: 	"Not Found" (404) at link https://sso.uib.es/cas/css/uib-theme/fonts/academicons.svg (from https://sso.uib.es/cas/css/uib-theme/estils.css)
+
+HTTrack Website Copier/3.49-4 mirror complete in 1 minutes 44 seconds : 65 links scanned, 60 files written (10608189 bytes overall) [9377786 bytes received at 90171 bytes/sec], 1602496 bytes transferred using HTTP compression in 15 files, ratio 16%
+(4 errors, 2 warnings, 0 messages)

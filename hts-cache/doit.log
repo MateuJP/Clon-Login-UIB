@@ -1,0 +1,8 @@
+https://sso.uib.es/cas/login?service=https%3A%2F%2Fserveis.uib.es%2Fportal-info%2Fportal%2Fentry%2F -o /cloneUib
+File generated automatically on Tue, 03 Oct 2023 23:56:36, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+

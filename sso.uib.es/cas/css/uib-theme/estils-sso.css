@@ -1,0 +1,18 @@
+.novisual{position:absolute;left:-9999px;}
+
+
+.menu-navigation {left:inherit;}
+#formulariUIB label{font-weight:bold;}
+#formulariUIB .required{color:#A00;}
+.btn.isubmit.autenticar{font-size:1.2em;}
+.btn.isubmit.autenticar span{ background: url("img/178559_myspriteH.gif") no-repeat scroll -212px -1014px transparent; padding-left:30px;}
+ul.login{margin:0;padding:2em 0 0 0;list-style:none;}
+ul.login li{padding:0 2em 0 0;margin:0;display:inline;}
+#fm2 {padding-bottom:2em;}
+
+.alert h4{padding-bottom:1em;}
+.alert h4 i {margin-top: 0.15em;margin-right: 0.5em;}
+
+@media screen and (min-width: 980px){
+	.uib_separador_banner.row-fluid{border-top: 1px solid rgb(74, 148, 204);margin-bottom:1em;}
+}
